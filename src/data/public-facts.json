@@ -1,0 +1,742 @@
+[
+  {
+    "id": 1,
+    "category": "Repères",
+    "text": "Prénom : Théo."
+  },
+  {
+    "id": 9,
+    "category": "Repères",
+    "text": "Il préfère communiquer en français pour beaucoup de ses demandes."
+  },
+  {
+    "id": 12,
+    "category": "Repères",
+    "text": "Il s'intéresse à plusieurs domaines techniques en parallèle."
+  },
+  {
+    "id": 14,
+    "category": "Repères",
+    "text": "Il veut comprendre ce qu'il fait plutôt que copier des étapes sans contexte."
+  },
+  {
+    "id": 16,
+    "category": "Repères",
+    "text": "Il demande souvent des instructions précises."
+  },
+  {
+    "id": 17,
+    "category": "Repères",
+    "text": "Il veut éviter les suppositions non vérifiées."
+  },
+  {
+    "id": 18,
+    "category": "Repères",
+    "text": "Il préfère qu'on vérifie les informations techniques avant de prendre une décision risquée."
+  },
+  {
+    "id": 19,
+    "category": "Repères",
+    "text": "Il aime avancer par étapes lors du dépannage."
+  },
+  {
+    "id": 21,
+    "category": "Repères",
+    "text": "Il aime les réponses directes."
+  },
+  {
+    "id": 24,
+    "category": "Repères",
+    "text": "Il préfère généralement les commandes exactes lorsqu'il demande une procédure informatique."
+  },
+  {
+    "id": 25,
+    "category": "Repères",
+    "text": "Il veut que les conseils tiennent compte de son matériel réel."
+  },
+  {
+    "id": 26,
+    "category": "Repères",
+    "text": "Il souhaite limiter les risques lors des opérations sur son ordinateur."
+  },
+  {
+    "id": 27,
+    "category": "Repères",
+    "text": "Il veut préserver ses données lorsqu'il installe ou répare un système."
+  },
+  {
+    "id": 28,
+    "category": "Repères",
+    "text": "Il préfère savoir clairement ce qui est certain et ce qui reste à vérifier."
+  },
+  {
+    "id": 29,
+    "category": "Repères",
+    "text": "Il aime personnaliser ses outils."
+  },
+  {
+    "id": 30,
+    "category": "Repères",
+    "text": "Il explore des solutions pour devenir plus autonome en informatique."
+  },
+  {
+    "id": 51,
+    "category": "Façon de travailler",
+    "text": "Il préfère les démarches numérotées pour les procédures techniques."
+  },
+  {
+    "id": 54,
+    "category": "Façon de travailler",
+    "text": "Il préfère éviter les changements irréversibles sans vérification."
+  },
+  {
+    "id": 55,
+    "category": "Façon de travailler",
+    "text": "Il aime qu'on précise les risques d'une opération."
+  },
+  {
+    "id": 58,
+    "category": "Façon de travailler",
+    "text": "Il apprécie les explications qui vont droit au problème."
+  },
+  {
+    "id": 59,
+    "category": "Façon de travailler",
+    "text": "Il aime les réponses adaptées à son niveau de connaissance."
+  },
+  {
+    "id": 60,
+    "category": "Façon de travailler",
+    "text": "Il préfère un dépannage progressif plutôt qu'une longue liste d'essais au hasard."
+  },
+  {
+    "id": 61,
+    "category": "Façon de travailler",
+    "text": "Il veut éviter les conseils génériques quand une configuration précise est connue."
+  },
+  {
+    "id": 62,
+    "category": "Façon de travailler",
+    "text": "Il souhaite que les hypothèses soient testées une par une."
+  },
+  {
+    "id": 63,
+    "category": "Façon de travailler",
+    "text": "Il préfère une distinction claire entre diagnostic et solution."
+  },
+  {
+    "id": 64,
+    "category": "Façon de travailler",
+    "text": "Il aime savoir pourquoi une étape est proposée."
+  },
+  {
+    "id": 69,
+    "category": "Façon de travailler",
+    "text": "Il apprécie les solutions pratiques qui lui font gagner du temps."
+  },
+  {
+    "id": 70,
+    "category": "Façon de travailler",
+    "text": "Il souhaite conserver le contrôle de ses appareils et de ses projets."
+  },
+  {
+    "id": 71,
+    "category": "Matériel",
+    "text": "Il possède un ordinateur de bureau HP."
+  },
+  {
+    "id": 72,
+    "category": "Matériel",
+    "text": "Le processeur communiqué est un Intel Core i7-4770."
+  },
+  {
+    "id": 76,
+    "category": "Matériel",
+    "text": "La carte graphique principale est une NVIDIA GeForce GTX 1060."
+  },
+  {
+    "id": 77,
+    "category": "Matériel",
+    "text": "Cette GTX 1060 dispose de 6 Go de VRAM."
+  },
+  {
+    "id": 78,
+    "category": "Matériel",
+    "text": "La mémoire vive est de type DDR3."
+  },
+  {
+    "id": 79,
+    "category": "Matériel",
+    "text": "Sa configuration habituelle a été décrite avec 16 Go de RAM."
+  },
+  {
+    "id": 80,
+    "category": "Matériel",
+    "text": "La RAM habituelle est constituée de deux barrettes de 8 Go."
+  },
+  {
+    "id": 83,
+    "category": "Matériel",
+    "text": "La mémoire fonctionne à 1600 MHz selon les informations partagées."
+  },
+  {
+    "id": 143,
+    "category": "Stockage",
+    "text": "Il souhaite séparer les usages entre différents disques."
+  },
+  {
+    "id": 161,
+    "category": "Systèmes",
+    "text": "Il utilise Windows 11 25H2 sur son PC."
+  },
+  {
+    "id": 162,
+    "category": "Systèmes",
+    "text": "Il a conservé Windows 10 sur une autre installation."
+  },
+  {
+    "id": 191,
+    "category": "Périphériques",
+    "text": "Il utilise un écran identifié comme PHL 2345."
+  },
+  {
+    "id": 192,
+    "category": "Périphériques",
+    "text": "Il utilise un second écran identifié comme Viseo 240DX."
+  },
+  {
+    "id": 193,
+    "category": "Périphériques",
+    "text": "Il possède un clavier de marque Action."
+  },
+  {
+    "id": 194,
+    "category": "Périphériques",
+    "text": "Sa souris a été identifiée comme une Action « Homday G »."
+  },
+  {
+    "id": 196,
+    "category": "Périphériques",
+    "text": "Il possède un casque Logitech G432."
+  },
+  {
+    "id": 211,
+    "category": "Jeux vidéo",
+    "text": "Il joue à Rocket League."
+  },
+  {
+    "id": 216,
+    "category": "Jeux vidéo",
+    "text": "Il s'intéresse aux objets du jeu."
+  },
+  {
+    "id": 217,
+    "category": "Jeux vidéo",
+    "text": "Il a parlé de la Fennec."
+  },
+  {
+    "id": 220,
+    "category": "Jeux vidéo",
+    "text": "Il cherche à progresser dans Rocket League."
+  },
+  {
+    "id": 221,
+    "category": "Jeux vidéo",
+    "text": "Il a demandé des informations sur les succès du jeu."
+  },
+  {
+    "id": 224,
+    "category": "Jeux vidéo",
+    "text": "Il se soucie des performances du jeu."
+  },
+  {
+    "id": 229,
+    "category": "Jeux vidéo",
+    "text": "Il s'intéresse à la configuration de la langue des jeux."
+  },
+  {
+    "id": 231,
+    "category": "Jeux vidéo",
+    "text": "Il joue à Fortnite."
+  },
+  {
+    "id": 235,
+    "category": "Jeux vidéo",
+    "text": "Il utilise une GTX 1060 de 6 Go pour les jeux."
+  },
+  {
+    "id": 236,
+    "category": "Jeux vidéo",
+    "text": "Il veut faire durer son PC malgré son âge."
+  },
+  {
+    "id": 237,
+    "category": "Jeux vidéo",
+    "text": "Il s'intéresse aux réglages graphiques."
+  },
+  {
+    "id": 238,
+    "category": "Jeux vidéo",
+    "text": "Il veut limiter les problèmes de fluidité."
+  },
+  {
+    "id": 239,
+    "category": "Jeux vidéo",
+    "text": "Il tient compte des limites de son matériel."
+  },
+  {
+    "id": 240,
+    "category": "Jeux vidéo",
+    "text": "Il veut éviter les optimisations qui rendent Windows instable."
+  },
+  {
+    "id": 241,
+    "category": "Jeux vidéo",
+    "text": "Il utilise son PC à la fois pour les jeux et le développement."
+  },
+  {
+    "id": 242,
+    "category": "Jeux vidéo",
+    "text": "Il doit parfois arbitrer entre performances de jeu et outils de développement."
+  },
+  {
+    "id": 244,
+    "category": "Jeux vidéo",
+    "text": "Il préfère des réglages raisonnables pour sa configuration."
+  },
+  {
+    "id": 245,
+    "category": "Jeux vidéo",
+    "text": "Il veut comprendre l'impact des pilotes graphiques."
+  },
+  {
+    "id": 250,
+    "category": "Jeux vidéo",
+    "text": "Il cherche des solutions qui ne nécessitent pas forcément l'achat de nouveaux composants."
+  },
+  {
+    "id": 251,
+    "category": "Linux",
+    "text": "Il veut installer une distribution Linux sur un SSD séparé."
+  },
+  {
+    "id": 252,
+    "category": "Linux",
+    "text": "Il veut garder Windows pour les jeux qui le nécessitent."
+  },
+  {
+    "id": 253,
+    "category": "Linux",
+    "text": "Il préfère explorer une distribution autre qu'Ubuntu."
+  },
+  {
+    "id": 254,
+    "category": "Linux",
+    "text": "Il recherche une interface moderne."
+  },
+  {
+    "id": 255,
+    "category": "Linux",
+    "text": "Il veut une configuration simple à utiliser."
+  },
+  {
+    "id": 257,
+    "category": "Linux",
+    "text": "Il souhaite utiliser Linux pour coder."
+  },
+  {
+    "id": 258,
+    "category": "Linux",
+    "text": "Il souhaite utiliser Linux pour l'IA locale."
+  },
+  {
+    "id": 259,
+    "category": "Linux",
+    "text": "Il a demandé quelle distribution conviendrait à son i7-4770."
+  },
+  {
+    "id": 260,
+    "category": "Linux",
+    "text": "Il a demandé une recommandation tenant compte de 16 Go de RAM."
+  },
+  {
+    "id": 261,
+    "category": "Linux",
+    "text": "Il a demandé une recommandation tenant compte de la GTX 1060 6 Go."
+  },
+  {
+    "id": 274,
+    "category": "Linux",
+    "text": "Il s'intéresse à la compatibilité des logiciels de développement sous Linux."
+  },
+  {
+    "id": 275,
+    "category": "Linux",
+    "text": "Il veut exécuter des outils de code modernes."
+  },
+  {
+    "id": 276,
+    "category": "Linux",
+    "text": "Il veut une installation durable et facile à maintenir."
+  },
+  {
+    "id": 277,
+    "category": "Linux",
+    "text": "Il souhaite pouvoir revenir à Windows si nécessaire."
+  },
+  {
+    "id": 280,
+    "category": "Linux",
+    "text": "Il cherche une installation multi-système propre."
+  },
+  {
+    "id": 281,
+    "category": "Programmation",
+    "text": "Il utilise Visual Studio Code."
+  },
+  {
+    "id": 282,
+    "category": "Programmation",
+    "text": "Il développe en Python."
+  },
+  {
+    "id": 283,
+    "category": "Programmation",
+    "text": "Il s'intéresse au développement web."
+  },
+  {
+    "id": 284,
+    "category": "Programmation",
+    "text": "Il veut travailler avec PHP."
+  },
+  {
+    "id": 285,
+    "category": "Programmation",
+    "text": "Il s'intéresse à MySQL."
+  },
+  {
+    "id": 286,
+    "category": "Programmation",
+    "text": "Il veut apprendre ou utiliser le langage C."
+  },
+  {
+    "id": 287,
+    "category": "Programmation",
+    "text": "Il s'intéresse à Lua."
+  },
+  {
+    "id": 288,
+    "category": "Programmation",
+    "text": "Il a travaillé sur un projet utilisant Pygame."
+  },
+  {
+    "id": 290,
+    "category": "Programmation",
+    "text": "Il utilise GitHub pour certains projets."
+  },
+  {
+    "id": 291,
+    "category": "Programmation",
+    "text": "Il utilise parfois Codespaces."
+  },
+  {
+    "id": 292,
+    "category": "Programmation",
+    "text": "Il a un projet appelé f1-race-replay."
+  },
+  {
+    "id": 293,
+    "category": "Programmation",
+    "text": "Le projet f1-race-replay utilise Python."
+  },
+  {
+    "id": 295,
+    "category": "Programmation",
+    "text": "Il a utilisé FastF1 dans ce projet."
+  },
+  {
+    "id": 296,
+    "category": "Programmation",
+    "text": "Il a utilisé Arcade dans ce projet."
+  },
+  {
+    "id": 297,
+    "category": "Programmation",
+    "text": "Il a utilisé PySide6 dans ce projet."
+  },
+  {
+    "id": 298,
+    "category": "Programmation",
+    "text": "Il s'est intéressé aux données de télémétrie de Formule 1."
+  },
+  {
+    "id": 300,
+    "category": "Programmation",
+    "text": "Il veut pouvoir développer localement quand c'est possible."
+  },
+  {
+    "id": 301,
+    "category": "Programmation",
+    "text": "Il aime tester des outils de développement."
+  },
+  {
+    "id": 302,
+    "category": "Programmation",
+    "text": "Il a travaillé sur un projet Vite."
+  },
+  {
+    "id": 303,
+    "category": "Programmation",
+    "text": "Il a travaillé sur un projet React."
+  },
+  {
+    "id": 311,
+    "category": "Programmation",
+    "text": "Il souhaite apprendre les outils plutôt que dépendre d'une configuration opaque."
+  },
+  {
+    "id": 312,
+    "category": "Programmation",
+    "text": "Il veut pouvoir exécuter et déboguer ses projets."
+  },
+  {
+    "id": 313,
+    "category": "Programmation",
+    "text": "Il s'intéresse aux outils de ligne de commande."
+  },
+  {
+    "id": 316,
+    "category": "Programmation",
+    "text": "Il veut automatiser certaines tâches répétitives."
+  },
+  {
+    "id": 317,
+    "category": "Programmation",
+    "text": "Il aime les scripts qui résolvent un problème concret."
+  },
+  {
+    "id": 319,
+    "category": "Programmation",
+    "text": "Il s'intéresse aux dépendances et aux erreurs d'installation."
+  },
+  {
+    "id": 320,
+    "category": "Programmation",
+    "text": "Il cherche des solutions compatibles avec ses versions logicielles."
+  },
+  {
+    "id": 321,
+    "category": "IA locale",
+    "text": "Il s'intéresse à l'intelligence artificielle locale."
+  },
+  {
+    "id": 331,
+    "category": "IA locale",
+    "text": "Il veut utiliser l'IA pour l'aider à coder."
+  },
+  {
+    "id": 332,
+    "category": "IA locale",
+    "text": "Il veut réduire sa dépendance aux API payantes."
+  },
+  {
+    "id": 333,
+    "category": "IA locale",
+    "text": "Il souhaite exécuter des modèles sur son propre matériel."
+  },
+  {
+    "id": 335,
+    "category": "IA locale",
+    "text": "Il s'intéresse à la taille des modèles."
+  },
+  {
+    "id": 336,
+    "category": "IA locale",
+    "text": "Il s'intéresse aux modèles qui activent seulement certains paramètres, comme les modèles MoE."
+  },
+  {
+    "id": 338,
+    "category": "IA locale",
+    "text": "Il veut que les modèles puissent appeler des outils."
+  },
+  {
+    "id": 340,
+    "category": "IA locale",
+    "text": "Il cherchait à faire fonctionner Qwen Coder avec les bons outils."
+  },
+  {
+    "id": 344,
+    "category": "IA locale",
+    "text": "Il veut un flux de travail proche des agents de programmation modernes."
+  },
+  {
+    "id": 350,
+    "category": "IA locale",
+    "text": "Il veut que les outils et les modèles réellement utilisés soient clairement identifiés."
+  },
+  {
+    "id": 351,
+    "category": "IA locale",
+    "text": "Il préfère savoir si un modèle tourne localement ou à distance."
+  },
+  {
+    "id": 352,
+    "category": "IA locale",
+    "text": "Il veut éviter des frais d'API involontaires."
+  },
+  {
+    "id": 353,
+    "category": "IA locale",
+    "text": "Il s'intéresse à l'automatisation des tâches de programmation."
+  },
+  {
+    "id": 357,
+    "category": "IA locale",
+    "text": "Il veut que les agents exécutent les bons outils au bon moment."
+  },
+  {
+    "id": 358,
+    "category": "IA locale",
+    "text": "Il s'intéresse aux limites de son matériel pour les modèles de langage."
+  },
+  {
+    "id": 359,
+    "category": "IA locale",
+    "text": "Il souhaite optimiser les performances sans perdre en fiabilité."
+  },
+  {
+    "id": 363,
+    "category": "Serveur personnel",
+    "text": "Le serveur utilise OpenMediaVault."
+  },
+  {
+    "id": 373,
+    "category": "Serveur personnel",
+    "text": "Il préfère administrer OpenMediaVault via son interface Web quand c'est possible."
+  },
+  {
+    "id": 374,
+    "category": "Serveur personnel",
+    "text": "Il préfère le plugin Docker Compose d'OpenMediaVault à une gestion entièrement en ligne de commande."
+  },
+  {
+    "id": 380,
+    "category": "Serveur personnel",
+    "text": "Il a travaillé sur une page d'accueil personnelle pour son serveur."
+  },
+  {
+    "id": 383,
+    "category": "Serveur personnel",
+    "text": "Il a utilisé Open WebUI."
+  },
+  {
+    "id": 398,
+    "category": "Serveur personnel",
+    "text": "Il veut que son serveur regroupe plusieurs services personnels."
+  },
+  {
+    "id": 399,
+    "category": "Serveur personnel",
+    "text": "Il s'intéresse à l'administration réseau."
+  },
+  {
+    "id": 400,
+    "category": "Serveur personnel",
+    "text": "Il souhaite que ses services restent accessibles et faciles à gérer."
+  },
+  {
+    "id": 412,
+    "category": "Organisation numérique",
+    "text": "Il s'intéresse à l'organisation automatisée des fichiers."
+  },
+  {
+    "id": 416,
+    "category": "Organisation numérique",
+    "text": "Il s'intéresse aux outils qui automatisent le rangement."
+  },
+  {
+    "id": 421,
+    "category": "Organisation numérique",
+    "text": "Il souhaite réduire le désordre dans ses dossiers."
+  },
+  {
+    "id": 424,
+    "category": "Organisation numérique",
+    "text": "Il aime les outils qui donnent une vue d'ensemble du stockage."
+  },
+  {
+    "id": 425,
+    "category": "Organisation numérique",
+    "text": "Il veut conserver une trace des modifications importantes."
+  },
+  {
+    "id": 483,
+    "category": "Outils numériques",
+    "text": "Il s'intéresse donc à recevoir des informations synthétiques au quotidien."
+  },
+  {
+    "id": 484,
+    "category": "Outils numériques",
+    "text": "Il utilise des outils numériques pour organiser des tâches."
+  },
+  {
+    "id": 485,
+    "category": "Outils numériques",
+    "text": "Il s'intéresse aux automatisations."
+  },
+  {
+    "id": 486,
+    "category": "Outils numériques",
+    "text": "Il a exploré les possibilités de connexion entre applications."
+  },
+  {
+    "id": 487,
+    "category": "Outils numériques",
+    "text": "Il s'intéresse aux outils qui font gagner du temps."
+  },
+  {
+    "id": 491,
+    "category": "En bref",
+    "text": "L'informatique est un intérêt majeur dans ses conversations."
+  },
+  {
+    "id": 492,
+    "category": "En bref",
+    "text": "Le jeu vidéo fait partie de ses loisirs évoqués."
+  },
+  {
+    "id": 493,
+    "category": "En bref",
+    "text": "Le développement logiciel est un domaine qu'il explore activement."
+  },
+  {
+    "id": 494,
+    "category": "En bref",
+    "text": "Il s'intéresse à l'intelligence artificielle locale."
+  },
+  {
+    "id": 495,
+    "category": "En bref",
+    "text": "Il s'intéresse à l'administration d'un serveur personnel."
+  },
+  {
+    "id": 496,
+    "category": "En bref",
+    "text": "Il aime personnaliser ses systèmes et ses outils."
+  },
+  {
+    "id": 497,
+    "category": "En bref",
+    "text": "Il cherche à tirer le meilleur parti d'un matériel qui n'est pas récent."
+  },
+  {
+    "id": 498,
+    "category": "En bref",
+    "text": "Il préfère des solutions concrètes, précises et réversibles quand c'est possible."
+  },
+  {
+    "id": 499,
+    "category": "En bref",
+    "text": "Il veut protéger ses fichiers et limiter les risques lors des opérations techniques."
+  }
+]
